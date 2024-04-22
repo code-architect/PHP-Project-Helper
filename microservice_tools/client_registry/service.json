@@ -1,0 +1,5 @@
+{
+  "user-service": "http://user-service:8000",
+  "product-service": "http://product-service:8080",
+  "order-service": "http://order-service:9000"
+}
