@@ -12,3 +12,8 @@ This php helper file contains reusable functions and utility classes that can be
 
 ## Author
 [<img src="https://avatars.githubusercontent.com/u/8597528?v=4">](https://codearchitect.in/)
+
+Execute git config --global -e and remove this line in the editor:
+
+credential.helper=manager-core
+-e means edit.
